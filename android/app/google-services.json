@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13466119085",
+    "project_id": "pt1-project-34648",
+    "storage_bucket": "pt1-project-34648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13466119085:android:f73f634e8019f9d3ab4f24",
+        "android_client_info": {
+          "package_name": "com.praveen.hotel_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13466119085-vp4b1ullq8250v5av09pj9r99tdo757r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7r4FK1CijZTVSS2961mpxEkoDDrT6h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13466119085-vp4b1ullq8250v5av09pj9r99tdo757r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
