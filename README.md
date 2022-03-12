@@ -1,16 +1,66 @@
-# hotel_booking
+## Hotel Booking App
 
-A new Flutter project.
+Hotel Booking app made with Flutter and Firebase
 
-## Getting Started
+## Development Setup
 
-This project is a starting point for a Flutter application.
+Register in Razor Pay and get a test key,
 
-A few resources to get you started if this is your first Flutter project:
+Add the key at 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+/lib/controllers/confirmation_controller.dart/line 153
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+
+## Screenshots
+
+### Onboard Page
+<img src="assets/screenshots/onboard1.jpg" height="500em" /> <img src="assets/screenshots/onboard2.jpg" height="500em" /> <img src="assets/screenshots/onboard3.jpg" height="500em" />
+
+### Login and Register
+<img src="assets/screenshots/login.jpg" height="500em"/> <img src="assets/screenshots/signup.jpg" height="500em" />
+
+### Home Page
+<img src="assets/screenshots/home.jpg" height="500em" /> <img src="assets/screenshots/home2.jpg" height="500em"/>
+
+### Hotel View Page
+<img src="assets/screenshots/hotelview.jpg" height="500em"/>
+
+### Confirmation Page
+<img src="assets/screenshots/confirmation.jpg" height="500em"/>
+
+### My Bookings
+<img src="assets/screenshots/mybookings.jpg" height="500em"/>
+
+### Profile Page
+<img src="assets/screenshots/profile.jpg" height="500em"/>
+
+### Settings Page
+<img src="assets/screenshots/settings.jpg" height="500em"/>
+
+### View Profile 
+<img src="assets/screenshots/viewprofile.jpg" height="500em"/>
+
+### Payment Page
+<img src="assets/screenshots/razorpay.jpg" height="500em"/>
+
+### Notifications Page
+<img src="assets/screenshots/notifications.jpg" height="500em"/>
+
+### Offers Page
+<img src="assets/screenshots/offers.jpg" height="500em"/>
+
+### Reset Password Page
+<img src="assets/screenshots/forgot.jpg" height="500em"/>
+
+
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/praveen-kumar-593597200/)
+* [Instagram](https://instagram.com/praveen_gongada)
