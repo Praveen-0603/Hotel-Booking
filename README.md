@@ -62,5 +62,5 @@ flutter run
 
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/in/praveen-kumar-593597200/)
+* [Linkedin](https://www.linkedin.com/in/praveen-kumar-593597200/)
 * [Instagram](https://instagram.com/praveen_gongada)
